@@ -1,4 +1,4 @@
-<img>https://raw.githubusercontent.com/iqbalfaf/mikrobuntu/master/Screenshot_1.png</img>
+![alt mikrobuntu](https://raw.githubusercontent.com/iqbalfaf/mikrobuntu/master/Screenshot_1.png)<br>
 # mikrobuntu
 <b> Install Mikrotik CHR On Ubuntu 16.04 64bit </b>
   
